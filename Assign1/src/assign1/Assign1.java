@@ -25,7 +25,7 @@ public class Assign1 {
             System.out.println("Empty String");
             str2 = str;
         } 
-        
+        System.out.println("Welcome to Github!!!!!");
              if(i<1){
             str2= null;
         }  
